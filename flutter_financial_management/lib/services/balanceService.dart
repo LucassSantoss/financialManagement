@@ -15,5 +15,5 @@ class BalanceService {
     } catch (e) {
       throw Exception("Erro de conexão: $e");
     }
-  }
+  }  
 }
